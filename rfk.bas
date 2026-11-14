@@ -95,7 +95,7 @@
 ' -----------------------------------------------------
 '   Open the window for graphics
 
-    'nomainwin
+    nomainwin
     open "Robot finds kitten" for graphics_nsb_nf as #g
     #g, "home ; down"
     #g, "fill black"
@@ -164,7 +164,7 @@
         print "Mouse pointer at: ";x; ", "; y
         'see if the user clicked the help area
         if x > 875 and x < 933 and y > 582 and y < 613 then
-            print "You have clicked the Help button"
+            run "explorer.exe rfk.html"
         end if 
     end sub
 

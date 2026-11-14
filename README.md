@@ -13,6 +13,22 @@ A little research proved that it had a pretty wide following.  There are at leas
 
 This is coded in Liberty BASIC 4.5.1, but it should run just fine in Just BASIC 2.x (which is the free version of the same programming language with a few whistles and bells removed).  Get your own copy of the development platform here: [https://www.libertybasic.com/](https://www.libertybasic.com/) - or you can get Lust BASIC here: [https://www.justbasic.com/](https://www.justbasic.com/)
 
+## Download the Game
+
+Download the game from the GitHub repository Releases or use this LINK
+
+## How to Run the Game
+
+The game has been compiled into a tokenized file and linked to an executable to make it easy to run on your computer even if you do not own Liberty BASIC.  After you download the ZIP file from the repository follow these steps to run the program:
+
+1. Fine the ZIP file and extract the contents
+2. Open the folder that is created
+3. Double click the RobotFindsKitten.exe file
+
+![Launching the game](<assets/launch.png>)
+
+ENJOY!
+
 ## How To Play
 
 Game play takes place on a grid of 36 x 58 cells.  Thirty two items are displayed on the playing board as shown in the image below:

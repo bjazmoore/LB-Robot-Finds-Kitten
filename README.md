@@ -15,7 +15,7 @@ This is coded in Liberty BASIC 4.5.1, but it should run just fine in Just BASIC 
 
 ## Download the Game
 
-Download the game from the GitHub repository Releases or use this LINK
+Download the game from the GitHub repository Releases or use this [LINK](https://github.com/bjazmoore/LB-Robot-Finds-Kitten/releases/tag/v.1)
 
 ## How to Run the Game
 
